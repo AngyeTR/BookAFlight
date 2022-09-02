@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BookAFlight/static/css/main.19fb087d.css",
+    "main.js": "/BookAFlight/static/js/main.67e16188.js",
+    "static/js/787.e8ffdc85.chunk.js": "/BookAFlight/static/js/787.e8ffdc85.chunk.js",
+    "static/media/background-travel-2.jpg": "/BookAFlight/static/media/background-travel-2.1b3bc05ab3ab53a29ab2.jpg",
+    "index.html": "/BookAFlight/index.html",
+    "main.19fb087d.css.map": "/BookAFlight/static/css/main.19fb087d.css.map",
+    "main.67e16188.js.map": "/BookAFlight/static/js/main.67e16188.js.map",
+    "787.e8ffdc85.chunk.js.map": "/BookAFlight/static/js/787.e8ffdc85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19fb087d.css",
+    "static/js/main.67e16188.js"
+  ]
+}
